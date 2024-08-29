@@ -1,0 +1,6 @@
+	variants.tsv
+summarized	[('Other', 0.9999999995484398)]
+lineages	DENV1-1II
+abundances	1.00000000
+resid	29.534799342072947
+coverage	15.640043226250123
